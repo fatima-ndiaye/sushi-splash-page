@@ -8,19 +8,17 @@ Fully responsive splash page that allows you to register to an upcoming webinar,
 - [Installation](#installation)
 - [Author](#author)
 
-
 ## Screenshot
 ![Screenshots](./images/Screenshot.png)
 
 ## Links
 
-- Solution URL: [https://github.com/fatima-xs/sushi-splash-page](https://github.com/fatima-xs/sushi-splash-page)
-- Live Site URL: [https://sushi-splash-fatima.netlify.app/](https://sushi-splash-fatima.netlify.app/)
+- Solution URL: [Github](https://github.com/fatima-xs/sushi-splash-page)
+- Live Site URL: [Netlify](https://sushi-splash-fatima.netlify.app/)
 
 ## Built with
-
-- HTML
-- CSS 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
 
 ## Installation
@@ -30,9 +28,9 @@ Fully responsive splash page that allows you to register to an upcoming webinar,
 
 ## Author
 **Fatimata Ndiaye**
-- [Profile](https://github.com/fatima-xs "Fatima Ndiaye") 
-- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
 
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
+[![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
 
 
 
